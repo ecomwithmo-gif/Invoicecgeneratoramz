@@ -195,13 +195,13 @@ const InvoicePreview = ({ lineItems, invoiceData }) => {
       name: 'WOAH SOFT GOODS LLC',
       address: '1144 S DESERT SENNA LOOP',
       suite: '',
-      city: 'Tucson, 85748'
+      city: 'Tucson, AZ 85748'
     },
     shipTo: {
       name: 'WOAH SOFT GOODS LLC',
       address: '1144 S DESERT SENNA LOOP',
       suite: '',
-      city: 'Tucson, 85748'
+      city: 'Tucson, AZ 85748'
     },
     customerNumber: '367494',
     paymentTerms: 'Net 30',
